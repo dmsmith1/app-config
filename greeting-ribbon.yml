@@ -1,3 +1,0 @@
-fortune-service:
-  ribbon:
-NFLoadBalancerRuleClassName: com.netflix.loadbalancer.WeightedResponseTimeRule
